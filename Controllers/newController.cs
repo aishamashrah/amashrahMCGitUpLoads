@@ -3,7 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace amashrahMCGitUpLoads.Controllers;
 
-[ApiController]
+[ApiController
+]
 [Route("[controller]")]
 public class WeatherForecastController : ControllerBase
 {
